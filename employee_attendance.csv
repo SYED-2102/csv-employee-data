@@ -1,0 +1,60 @@
+@,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,www.ABC.com,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,Emloyee Attendance Sheet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,9,January,February,March,April,May,June,July,August,September,October,Novemeber,December,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,1,2,3,4,5,6,7,8,9,10,11,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Year,2025,Date,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,,,,,,,,,,,,,,,
+,Month,September,Type of Day,W,W,W,W,W,W,H,W,W,W,W,W,W,H,W,W,W,W,W,W,H,W,W,W,W,W,W,H,W,W,W,,,,,,,,,,,,,,,
+,Emp. ID,Employee Name,Month,Mon,Tue,Wed,Thu,Fri,Sat,Sun,Mon,Tue,Wed,Thu,Fri,Sat,Sun,Mon,Tue,Wed,Thu,Fri,Sat,Sun,Mon,Tue,Wed,Thu,Fri,Sat,Sun,Mon,Tue,Wed,P,L,HD,NH,FH,T,ML,EL,EL AL,SL,SL AL,CL,CL AL,WorkingDays,DaysPayable
+,1,Astha Puri,September,P,L,H,HD,ML,CL,T,NH,FH,H,ML,EL,P,L,P,P,H,P,P,P,L,L,P,H,P,P,P,P,P,P,H,14,4,1,1,1,1,2,1,1,0,2,1,2,26,22
+,2,Bijal Pande,September,P,L,H,L,P,P,P,NH,FH,H,P,P,P,L,P,P,H,P,P,P,L,P,P,H,P,P,P,P,P,P,H,20,4,0,1,1,0,0,0,1,0,2,0,2,26,22
+,3,Chirag Sharma,September,P,L,H,P,P,P,P,NH,FH,H,P,P,P,L,P,P,H,P,HD,P,P,P,P,H,P,P,P,P,P,P,H,21,2,1,1,1,0,0,0,1,0,2,0,2,26,24
+,4,Divya Soni,September,P,P,H,P,P,HD,P,NH,FH,H,P,P,P,L,CL,P,H,P,P,P,P,P,P,H,P,P,CL,P,P,P,H,20,1,1,1,1,0,0,0,1,0,2,2,2,26,25
+,5,Erum Rastogi,September,P,P,H,P,P,P,P,NH,FH,H,P,P,P,L,P,P,H,P,P,CL,P,P,P,H,P,P,L,P,SL,P,H,20,2,0,1,1,0,0,0,1,1,2,1,2,26,24
+,6,Farhan Patel,September,P,P,H,P,P,P,P,NH,FH,H,P,P,P,L,P,P,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,23,1,0,1,1,0,0,0,1,0,2,0,2,26,25
+,7,Geet Sahu,September,P,P,H,P,L,P,P,NH,FH,H,P,P,P,L,P,P,H,P,P,P,SL,P,P,H,P,P,P,P,P,P,H,21,2,0,1,1,0,0,0,1,1,2,0,2,26,24
+,8,Himesh Surya,September,P,P,H,P,P,P,P,NH,FH,H,P,P,P,L,P,P,H,P,HD,P,P,P,P,H,P,P,L,P,P,P,H,21,2,1,1,1,0,0,0,1,0,2,0,2,26,24
+,9,Imran Abha,September,P,P,H,P,L,P,P,NH,FH,H,P,P,P,L,P,P,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,22,2,0,1,1,0,0,0,1,0,2,0,2,26,24
+,10,Jitendra Pande,September,P,P,H,P,P,P,P,NH,FH,H,P,P,P,L,P,P,H,L,P,P,P,L,P,H,L,P,P,P,P,P,H,20,4,0,1,1,0,0,0,1,0,2,0,2,26,22
+,11,Kailash Rane,September,P,P,H,P,P,P,P,NH,FH,H,P,P,P,L,P,P,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,23,1,0,1,1,0,0,0,1,0,2,0,2,26,25
+,12,Luv Patel,September,P,P,H,P,L,P,P,NH,FH,H,P,P,L,L,P,P,H,P,HD,P,P,P,P,H,P,P,CL,P,P,P,H,19,3,1,1,1,0,0,0,1,0,2,1,2,26,23
+,13,Manoj Bhide,September,P,P,H,P,P,P,P,NH,FH,H,L,P,P,L,P,P,H,T,T,T,T,T,T,H,P,P,P,P,SL,P,H,15,2,0,1,1,6,0,0,1,1,2,0,2,26,24
+,14,Nancy Pastor,September,P,P,H,P,P,P,P,NH,FH,H,P,P,L,P,P,P,H,P,P,P,P,HD,P,H,ML,ML,ML,ML,ML,ML,H,16,1,1,1,1,0,6,0,1,0,2,0,2,26,25
+,15,Omar Shaikh,September,P,P,H,P,P,P,P,NH,FH,H,P,P,L,P,P,P,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,23,1,0,1,1,0,0,0,1,0,2,0,2,26,25
+,16,Preetam Chavla,September,P,P,H,P,P,P,P,NH,FH,H,P,P,L,P,P,P,H,P,P,P,P,P,P,H,P,HD,P,P,P,P,H,22,1,1,1,1,0,0,0,1,0,2,0,2,26,25
+,17,Ram Vihaan,September,P,P,H,P,P,P,P,NH,FH,H,P,P,L,P,P,P,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,23,1,0,1,1,0,0,0,1,0,2,0,2,26,25
+,18,Sunil Upadhay,September,P,P,H,P,P,P,P,NH,FH,H,P,P,L,P,P,P,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,23,1,0,1,1,0,0,0,1,0,2,0,2,26,25
+,19,Tirth Chobe,September,P,P,H,P,P,P,P,NH,FH,H,P,L,L,P,P,P,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,22,2,0,1,1,0,0,0,1,0,2,0,2,26,24
+,20,Umesh Bajrang,September,P,P,H,P,P,P,P,NH,FH,H,P,L,L,P,P,P,H,P,P,P,P,P,P,H,P,HD,P,P,P,P,H,21,2,1,1,1,0,0,0,1,0,2,0,2,26,24
+,21,Umesh Bajrang 1,September,P,P,H,P,P,P,P,NH,FH,H,P,L,L,P,P,P,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,22,2,0,1,1,0,0,0,1,0,2,0,2,26,24
+,22,Umesh Bajrang 2,September,P,P,H,P,P,P,P,NH,FH,H,P,L,P,P,P,L,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,23,1,0,1,1,0,0,0,1,0,2,0,2,26,25
+,23,Umesh Bajrang 3,September,P,P,H,P,P,P,P,NH,FH,H,P,L,P,P,P,L,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,23,1,0,1,1,0,0,0,1,0,2,0,2,26,25
+,24,Umesh Bajrang 4,September,P,P,H,P,P,P,P,NH,FH,H,P,L,P,P,P,L,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,23,1,0,1,1,0,0,0,1,0,2,0,2,26,25
+,25,Umesh Bajrang 5,September,P,P,H,P,P,P,P,NH,FH,H,P,L,P,P,P,L,H,P,P,P,P,P,P,H,P,HD,P,P,P,P,H,22,1,1,1,1,0,0,0,1,0,2,0,2,26,25
+,26,Umesh Bajrang 6,September,P,P,H,P,P,P,P,NH,FH,H,P,L,P,P,P,L,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,23,1,0,1,1,0,0,0,1,0,2,0,2,26,25
+,27,Umesh Bajrang 7,September,P,P,H,P,P,P,P,NH,FH,H,P,L,P,P,P,L,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,23,1,0,1,1,0,0,0,1,0,2,0,2,26,25
+,28,Umesh Bajrang 8,September,P,P,H,P,L,P,P,NH,FH,H,P,L,P,P,P,L,H,P,P,P,P,P,P,H,P,HD,P,P,P,P,H,22,1,1,1,1,0,0,0,1,0,2,0,2,26,25
+,29,Umesh Bajrang 9,September,P,P,H,P,L,P,P,NH,FH,H,P,L,P,P,P,L,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,23,1,0,1,1,0,0,0,1,0,2,0,2,26,25
+,30,Umesh Bajrang 10,September,P,P,H,P,L,P,P,NH,FH,H,P,L,P,P,P,L,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,23,1,0,1,1,0,0,0,1,0,2,0,2,26,25
+,31,Umesh Bajrang 11,September,P,P,H,P,L,P,P,NH,FH,H,P,P,P,P,P,L,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,24,0,0,1,1,0,0,0,1,0,2,0,2,26,26
+,32,Umesh Bajrang 12,September,P,P,H,P,L,P,P,NH,FH,H,P,P,P,P,P,L,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,24,0,0,1,1,0,0,0,1,0,2,0,2,26,26
+,33,Umesh Bajrang 13,September,P,P,H,P,L,P,P,NH,FH,H,P,P,P,P,P,L,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,24,0,0,1,1,0,0,0,1,0,2,0,2,26,26
+,34,Umesh Bajrang 14,September,P,P,H,P,L,P,P,NH,FH,H,P,P,P,P,P,L,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,24,0,0,1,1,0,0,0,1,0,2,0,2,26,26
+,35,Umesh Bajrang 15,September,P,L,H,P,L,L,P,NH,FH,H,P,P,P,P,P,L,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,24,0,0,1,1,0,0,0,1,0,2,0,2,26,26
+,36,Umesh Bajrang 16,September,P,L,H,P,L,L,P,NH,FH,H,P,P,P,P,P,L,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,24,0,0,1,1,0,0,0,1,0,2,0,2,26,26
+,37,Umesh Bajrang 17,September,P,L,H,P,L,L,P,NH,FH,H,P,P,P,P,P,L,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,24,0,0,1,1,0,0,0,1,0,2,0,2,26,26
+,38,Umesh Bajrang 18,September,P,L,H,P,P,L,L,NH,FH,H,P,P,P,P,P,L,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,24,0,0,1,1,0,0,0,1,0,2,0,2,26,26
+,39,Umesh Bajrang 19,September,P,L,H,P,P,L,P,NH,FH,H,P,P,P,P,P,L,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,24,0,0,1,1,0,0,0,1,0,2,0,2,26,26
+,40,Umesh Bajrang 20,September,P,L,H,P,P,L,P,NH,FH,H,P,P,P,P,P,L,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,24,0,0,1,1,0,0,0,1,0,2,0,2,26,26
+,41,Umesh Bajrang 21,September,P,L,H,P,P,L,P,NH,FH,H,P,P,P,P,P,L,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,24,0,0,1,1,0,0,0,1,0,2,0,2,26,26
+,42,Umesh Bajrang 22,September,P,L,H,P,P,L,P,NH,FH,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,24,0,0,1,1,0,0,0,1,0,2,0,2,26,26
+,43,Umesh Bajrang 23,September,P,L,H,P,P,L,P,NH,FH,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,24,0,0,1,1,0,0,0,1,0,2,0,2,26,26
+,44,Umesh Bajrang 24,September,P,L,H,P,P,L,P,NH,FH,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,24,0,0,1,1,0,0,0,1,0,2,0,2,26,26
+,45,Umesh Bajrang 25,September,P,L,H,P,P,L,P,NH,FH,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,24,0,0,1,1,0,0,0,1,0,2,0,2,26,26
+,46,Umesh Bajrang 26,September,P,L,H,P,P,L,P,NH,FH,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,24,0,0,1,1,0,0,0,1,0,2,0,2,26,26
+,47,Umesh Bajrang 27,September,P,L,H,P,P,L,P,NH,FH,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,24,0,0,1,1,0,0,0,1,0,2,0,2,26,26
+,48,Umesh Bajrang 28,September,P,L,H,P,P,L,P,NH,FH,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,24,0,0,1,1,0,0,0,1,0,2,0,2,26,26
+,49,Umesh Bajrang 29,September,P,L,H,P,P,L,P,NH,FH,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,24,0,0,1,1,0,0,0,1,0,2,0,2,26,26
+,50,Umesh Bajrang 30,September,P,L,H,P,P,L,P,NH,FH,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,P,P,P,P,P,P,H,24,0,0,1,1,0,0,0,1,0,2,0,2,26,26
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Daily Attendance,,,50,47,0,48,46,48,49,0,0,0,48,37,41,37,49,50,0,48,46,48,46,46,49,0,48,45,45,49,47,49,0,,,,,,,,,,,,,,,
